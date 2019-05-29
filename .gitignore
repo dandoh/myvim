@@ -1,0 +1,22 @@
+# Node
+npm-debug.log
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# WebStorm
+.idea/
+
+.ipr
+*.iml
+*.iws
+
+# vi
+*~
+
+*.swp
+
+*.o
